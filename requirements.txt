@@ -1,4 +1,12 @@
 streamlit
 pandas
-numpy
 plotly
+matplotlib
+beautifulsoup4
+lxml
+python-dotenv
+numpy
+scipy
+pandasai>=3.0.0b2
+pandasai-openai
+
